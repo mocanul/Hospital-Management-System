@@ -16,6 +16,7 @@ A Windows Forms (WinForms) application built in Visual Studio 2022 that provides
   - Record diagnoses & lab results
   - Browse patient list and medical history
   - View upcoming appointments
+  - View appointments record
 
 Forms visible in the codebase include:
 Login, PasswordChange, AdminHome, AdminNewStaff, AdminViewStaff, StaffHome, StaffCreateAppointment, StaffViewAppointments, StaffViewPatients, StaffViewPatientMedicalHistory, StaffDiagnosisForm, StaffLabResult.
