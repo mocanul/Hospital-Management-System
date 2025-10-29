@@ -66,11 +66,11 @@ The repository is 100% C# and targets WinForms via a standard .csproj and soluti
   - Ensure consistent layout, colors, and navigation between forms.
   - Add “Logout” and “Exit” buttons in dashboards.
  
-How to run the program:
--Copy repo
--Run Hospital Management.exe
--Logins are: staff.admin1 / staff.doctor2 / staff.nurse3 / staff.receptionist4
--Password: 12345678
+▶️How to run the program:
+- Copy repo
+- Run Hospital Management.exe
+- Logins are: staff.admin1 / staff.doctor2 / staff.nurse3 / staff.receptionist4
+- Password: 12345678
 
 
 
