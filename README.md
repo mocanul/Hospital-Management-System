@@ -16,6 +16,7 @@ A Windows Forms (WinForms) application built in Visual Studio 2022 that provides
   - Record diagnoses & lab results
   - Browse patient list and medical history
   - View upcoming appointments
+  - View appointments record
 
 Forms visible in the codebase include:
 Login, PasswordChange, AdminHome, AdminNewStaff, AdminViewStaff, StaffHome, StaffCreateAppointment, StaffViewAppointments, StaffViewPatients, StaffViewPatientMedicalHistory, StaffDiagnosisForm, StaffLabResult.
@@ -65,6 +66,12 @@ The repository is 100% C# and targets WinForms via a standard .csproj and soluti
 - UI Polish & Navigation
   - Ensure consistent layout, colors, and navigation between forms.
   - Add “Logout” and “Exit” buttons in dashboards.
+ 
+▶️How to run the program:
+- Copy repo
+- Run Hospital Management.exe
+- Logins are: staff.admin1 / staff.doctor2 / staff.nurse3 / staff.receptionist4
+- Password: 12345678
 
 
 
